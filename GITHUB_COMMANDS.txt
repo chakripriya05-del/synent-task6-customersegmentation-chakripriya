@@ -1,0 +1,8 @@
+# 1. On github.com create a NEW PUBLIC repo named exactly: synent-task6-customersegmentation-chakripriya
+# 2. In a terminal, inside this folder:
+git init
+git add .
+git commit -m "Synent Task 2: Customer segmentation"
+git branch -M main
+git remote add origin https://github.com/<your-github-username>/synent-task6-customersegmentation-chakripriya.git
+git push -u origin main
